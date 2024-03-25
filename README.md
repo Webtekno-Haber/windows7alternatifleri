@@ -3,7 +3,7 @@ Bu depoda Windows 7'nin alternatifleri öğreneceğiz.
 # Ücretsiz Windows alternatifleri
 - Nese 7
 
-**Nese 7,** Windows 7'den daha hızlı ve güncel versiyonudur. Ana akımı 2025'e kadar, geliştirilmiş destek 2027'ye kadar, ve geliştirilmiş güvenlik güncelleme lisanslı olmayanlar desteği ise 2028'e kadar geçerlidir. İso dosyasını indirmek için [Şu linke](https://archive.org/details/software?tab=collection&query=nese+7) gidebilirsiniz.
+**Nese 7,** Windows 7'den daha hızlı ve güncel versiyonudur. Ana akımı **2025**'e kadar, geliştirilmiş destek **2027**'ye kadar, ve geliştirilmiş güvenlik güncelleme lisanslı olmayanlar desteği ise **2028**'e kadar geçerlidir. İso dosyasını indirmek için [Şu linke](https://archive.org/details/software?tab=collection&query=nese+7) gidebilirsiniz.
 - Linux
 
 **Linux,** en popüler açık kaynak kodlu işletim sistemi olarak bizlerin karşısına çıkıyor. Linux, açık kaynak kodlu olması sayesinde kullanıcılar işletim sistemini kendince düzenleyebiliyor ve geliştirebiliyorlar. Bu sayede kullanıcılara daha özgür bir kullanım sunan Linux, Windows’tan daha farklı bir arayüze sahip.
