@@ -1,6 +1,6 @@
 # Windows 7'nin alternatifleri
 Bu depoda Windows 7'nin alternatifleri öğreneceğiz. 
-# Ücretsiz Windows alternatifleri
+# Ücretsiz Windows 7 alternatifleri
 - Nese 7
 
 **Nese 7,** Windows 7'den daha hızlı ve güncel versiyonudur. Ana akımı **2025**'e kadar, geliştirilmiş destek **2027**'ye kadar, ve geliştirilmiş güvenlik güncelleme lisanslı olmayanlar desteği ise **2028**'e kadar geçerlidir. İso dosyasını indirmek için [Şu linke](https://archive.org/details/software?tab=collection&query=nese+7) gidebilirsiniz.
